@@ -11,7 +11,7 @@ This project is a modern Employee Management System built using Python and Custo
 - Byron Mutimusakwa: Software (Frontend)
 - Tiffany Mafu: Software (Frontend)
 - Cynthia Pondiwa: Software (Backend)
-- Brian Mutsetsa: Software (Backend)
+- Brian Mutsetsa: Software Lead(Frontend + Backend)
 
 ## Features
 
